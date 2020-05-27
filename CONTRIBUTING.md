@@ -14,4 +14,4 @@ Feature Requests should be opened up as [issues](https://help.github.com/en/gith
 
 **NOTE: We recommend you start by opening a new issue describing the bug or feature you're intending to fix. Even if you think it's relatively minor, it's helpful to know what people are working on.**
 
-We are always welcome to new PRs!
+We are always open to new PRs!
