@@ -4,7 +4,7 @@
 
 Default community files for Vela. See [About Default Community Health Files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file-for-your-organization#about-default-community-health-files) for more info.
 
-> Vela is in active development and is a pre-release product. Please use at your own risk in production.
+> Vela is in active development and is a pre-release product.
 >
 > Feel free to send us feedback at https://github.com/go-vela/community/issues/new.
 
